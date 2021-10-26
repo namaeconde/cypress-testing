@@ -1,0 +1,25 @@
+{
+  "name": "cypress-testing",
+  "version": "1.0.0",
+  "description": "End-to-end testing using Cypress framework",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namaeconde/cypress-testing.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Namae Conde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namaeconde/cypress-testing/issues"
+  },
+  "homepage": "https://github.com/namaeconde/cypress-testing#readme",
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}
